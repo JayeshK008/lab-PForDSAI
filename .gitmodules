@@ -1,0 +1,3 @@
+[submodule "DSP505"]
+	path = DSP505
+	url = https://github.com/gagan-iitb/DSP505.git
